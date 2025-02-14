@@ -1,0 +1,32 @@
+{
+    "English": {
+    "welcome_message":"Welcome to Calculator!",
+    "first_number":"What's the first number?",
+    "invalid_number":"Hmm... that doesn't look like a valid number.",
+    "second_number":"What's the second number?",
+    "operation":"What operation would you like to perform? 1) Add 2) Subtract 3) Multiply 4) Divide",
+    "invalid_operation":"You must choose 1, 2, 3, or 4",
+    "output":"The result is {output}. Would you like to perform another calculation? Yes or No"
+   },
+
+   "Spanish": {
+    "welcome_message":"¡Bienvenido a Calculadora!",
+    "first_number":"Cuál es el primer número?",
+    "invalid_number":"Hmm... ese no parece un número válido.",
+    "second_number":"Cuál es el segundo número?",
+    "operation":"Qué operación te gustaría realizar? 1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+    "invalid_operation":"Debes elegir 1, 2, 3 o 4",
+    "output":"El resultado es {output}. ¿Le gustaría realizar otro cálculo? Sí o no"
+   },
+
+   "French": {
+    "welcome_message":"Bienvenue sur Calculatrice!",
+    "first_number":"Quel est le premier numéro?",
+    "invalid_number":"Hmm... cela ne ressemble pas à un numéro valide.",
+    "second_number":"Quel est le deuxième numéro?",
+    "operation":"Quelle opération souhaiteriez-vous réaliser? 1) Ajouter 2) Soustraire 3) Multiplier 4) Diviser",
+    "invalid_operation":"Vous devez choisir 1, 2, 3 ou 4",
+    "output":"Le résultat est {output}. Souhaitez-vous effectuer un autre calcul ? Oui ou Non"
+   }
+
+}
